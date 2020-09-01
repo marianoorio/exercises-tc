@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+logs/
+work/
+target/
+classes/
+src/main/resources/git.properties
+# http://maven.apache.org/surefire/maven-surefire-plugin/test-mojo.html#runOrder
+.surefire-*
